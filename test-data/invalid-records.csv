@@ -1,0 +1,21 @@
+Name,Email,Mobile Phone,Company,Remarks
+Ms. Chandramani Khanna,,,Ahuja - Mahajan,Invalid row: No email or phone
+Omana Patil,omanapatil@not-an-email-domain,7798511726,Kaniyar - Menon,Invalid email domain structure
+Amarnath Gupta,amarnath.gupta@yahoo.com,987-ABCD-12,Khatri - Banerjee,Invalid characters in phone number
+,baidehi.nair@outlook.com,8236771958,"Shukla, Trivedi and Devar",Missing name field
+Kanchan Guha,invalid_email@example,invalid_phone_123,,All contact info is malformed
+Dr. Bhoopat Pilla,,,Malik - Acharya,Invalid row: No email or phone
+Gatik Mukhopadhyay,gatikmukhopadhyay@not-an-email-domain,8818305571,Mehrotra - Jain,Invalid email domain structure
+Bhishma Guha,bhishma.guha@gmail.com,987-ABCD-12,Gowda - Mishra,Invalid characters in phone number
+,abhaya.bhattathiri@hotmail.com,8494957786,Panicker Corp,Missing name field
+Bhagwati Mehrotra,invalid_email@example,invalid_phone_123,,All contact info is malformed
+Vasundhara Kaul,,,Dutta Corp,Invalid row: No email or phone
+Rupinder Talwar,rupindertalwar@not-an-email-domain,8523847923,Gupta-Ganaka - Sharma,Invalid email domain structure
+Shantanu Pilla,shantanu.pilla@outlook.com,987-ABCD-12,Tagore and Sons,Invalid characters in phone number
+,dayaamay.verma@outlook.com,9249495192,"Chopra, Varrier and Menon",Missing name field
+Trilokanath Dutta,invalid_email@example,invalid_phone_123,,All contact info is malformed
+Devak Embranthiri V,,,"Chaturvedi, Kakkar and Kaul",Invalid row: No email or phone
+Jaya Iyer,jayaiyer@not-an-email-domain,8451385009,"Malik, Tandon and Joshi",Invalid email domain structure
+Chandraayan Bhat,chandraayan.bhat@outlook.com,987-ABCD-12,Saini - Verma,Invalid characters in phone number
+,himani.johar@outlook.com,6706938804,Chattopadhyay - Desai,Missing name field
+Amrit Butt,invalid_email@example,invalid_phone_123,,All contact info is malformed
